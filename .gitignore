@@ -1,0 +1,15 @@
+# Backend (Python) önbellek dosyaları ve yerel veritabanı
+__pycache__/
+.venv/
+backend_api/*.db
+backend_api/*.db-shm
+backend_api/*.db-wal
+
+# Editör ayarları
+.vs/
+.vscode/
+
+# Gradle derleme çıktısı (Flutter APK derlerken oluşur)
+mobile_app/android/build/
+
+tools/
